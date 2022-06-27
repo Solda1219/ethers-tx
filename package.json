@@ -1,0 +1,11 @@
+{
+  "name": "ethers-tx",
+  "version": "1.0.0",
+  "description": "This is module for transaction in ethersjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
